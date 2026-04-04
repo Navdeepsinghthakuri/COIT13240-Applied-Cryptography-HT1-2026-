@@ -56,3 +56,11 @@ To connect via SSH to an Ubuntu virtual machine, set up PuTTY on Windows and use
 
 [FileZilla file transfer setup]
 The Ubuntu virtual machine was connected via SFTP using FileZilla (127.0.0.1:5022). successfully accessed and browsed Linux directories using Windows. I used 5022 as the port of my other PC to set up FileZilla, so this setup makes file sharing easy throughout the time. 
+
+Reflection :  
+I learnt how to set up a Linux system, a GitHub repository, and necessary tools like pycipher and Python during the first week. Setting up SSH and virtual computers was difficult at first, but I eventually gained confidence. I was able to develop a solid technical basis for upcoming cryptography activities this week.
+
+
+
+
+
