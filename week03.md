@@ -41,3 +41,8 @@ Brute-force attacks can be prevented by employing a strong, random key.
 The OpenSSL AES-128-CBC speed test results are displayed in the image. Performance is greatly improved in the second test (with -evp) by using hardware AES, whereas the first test operates without hardware acceleration. Compared to software AES, hardware-accelerated AES is roughly four times faster. Data is processed more effectively with larger block sizes. This facilitates system-to-system encryption performance comparison.
 Q8: 
 The total encryption speed would be 500,000 AES encryptions per second if I had ten $10,000 MacBook Airs, each of which could encrypt data at a rate of 50,000 encryptions per second. AES-256's key space is 2^256. The brute force time needed would be time = 2^256/500,000 = 2.316×10^71. Ten $1,000s MacBook Airs would add up to $10,000. AES-256 cannot be broken by brute force using current technology because of its significant energy consumption, hardware limitations, and prohibitive time requirements. These are some of its primary practical restrictions.
+
+Reflection:
+I studied modern cryptography ideas, including AES, attack models, and encryption modes throughout Week 3. I discovered the reason why powerful algorithms, such as AES, are essentially unbreakable. This week enhanced my ability to think critically and deepened my understanding of practical encryption and cybersecurity.
+
+
