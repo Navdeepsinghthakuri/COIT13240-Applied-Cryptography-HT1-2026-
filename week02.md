@@ -60,5 +60,8 @@ Worst-case time = 2^1200/10^10 seconds
 Convert to years: 10^343.74 years
 The key space of a 300-character hexadecimal one-time pad is 16^300 = 2^1200, which is quite enormous. The worst-case brute force time is 2^1200 / 10^10 seconds, or around 10^33 years, even with a strong machine checking 10¹¹ keys every second.
 The One-Time Pad is said to be theoretically impenetrable when used correctly, since this is so high that brute-force assaults are nearly impossible.
+Reflection: 
+I focused on traditional cyphers like Caesar, Playfair, Rail Fence, and Row/Column during Week 2. I was able to comprehend both the manual and Python methods of encryption and decryption. I learnt more about security principles after seeing how vulnerable some cyphers are to brute-force assaults.
+
 
 
