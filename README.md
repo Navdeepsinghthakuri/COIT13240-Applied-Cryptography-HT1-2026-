@@ -1,12 +1,12 @@
 # COIT13240-Applied-Cryptography-HT1-2026-
 journal 
-# COIT13240 Applied Cryptography (2025, Term 1) Journal
+# COIT13240 Applied Cryptography (2026, Term 1) Journal
 
 - Student Name: navdeep singh thakuri
 - Student ID: 12216480
 - Student Email:n.singhthakuri@cqumail.com
 - Campus: Brisbane
-- Tutor: Khaleel Petrus
+- Tutor: Gary Zhai
 
 ## Weekly Journal Entries
 
