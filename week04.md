@@ -5,24 +5,26 @@ Q1: Exclusive OR
 
 
 Bit Position	A	B	A ⊕ B
-1	0	1	1
-2	1	1	0
-3	0	1	1
-4	1	0	1
-5	0	0	0
-6	0	1	1
+1	            0	1	1
+2	            1	1	0
+3	           0	1	1
+4	           1	0	1
+5	           0	0	0
+6	           0	1	1
 
 Final Result:
-A	B	A ⊕ B
+A	      B	    A ⊕ B
 010100	111001	101101
 010100 ⊕ 111001 = 101101
 
 
 Q2: Simple Block Cipher (SBC) [10 min]
 Task:
+
 Encrypt a random 5-bit plaintext using SBC with a 3-bit key
 Decrypt the ciphertext 11111 using a random 3-bit key.
 From SBC lookup table from:
+
 	An example of encryption Suppose:
 	01010 is the plaintext.
 	110 → is the key. Look up column 110 and row 01010.
@@ -34,9 +36,9 @@ From SBC lookup table from:
 
 Q3: SBC in CBC Mode
 TASK:
-•	Choose.                         random values:
-A = 10101
-B = 01110
+•	Choose.              random values:
+A =                      10101
+B =                       01110
 → P1 = ABA = 101010111010101
 •	Key K1 = 110
 •	IV1 = 10011
